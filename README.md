@@ -8,3 +8,8 @@ https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-c67dc747-1d6a-43cb-b4
 
 ### Request credits for part 6. 
 https://fullstackopen.com/en/part0/general_info/#how-to-get-your-credits
+
+-------------------
+
+## Part 6 - State management with Redux
+https://fullstackopen.com/en/part6
